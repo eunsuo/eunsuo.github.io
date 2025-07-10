@@ -1,0 +1,20 @@
+{
+  "id": "Tools/estimate-write",
+  "title": "견적서 양식 작성",
+  "description": "사용자의 입력에 따라 견적서를 PDF 혹은 이미지로 저장할 수 있는 도구입니다.",
+  "source": "@site/docs/Tools/estimate-write.mdx",
+  "sourceDirName": "Tools",
+  "slug": "/Tools/estimate-write",
+  "permalink": "/docs/Tools/estimate-write",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Tools/estimate-write.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "견적서 양식 생성",
+    "permalink": "/docs/Tools/estimate-form"
+  }
+}

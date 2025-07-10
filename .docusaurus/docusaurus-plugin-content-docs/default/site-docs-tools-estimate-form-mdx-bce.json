@@ -1,0 +1,20 @@
+{
+  "id": "tools/estimate-form",
+  "title": "estimate-form",
+  "description": "---",
+  "source": "@site/docs/tools/estimate-form.mdx",
+  "sourceDirName": "tools",
+  "slug": "/tools/estimate-form",
+  "permalink": "/docs/tools/estimate-form",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tools/estimate-form.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}
