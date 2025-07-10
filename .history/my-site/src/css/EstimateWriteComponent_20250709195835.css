@@ -1,0 +1,70 @@
+.estimate-write-wrapper { padding: 1rem; max-width: 800px; margin: auto; }
+
+.estimate-form > div { margin-bottom: 1rem; display: flex; flex-direction: column; }
+
+.estimate-form label { font-weight: bold; margin-bottom: 0.25rem; }
+
+.estimate-form input[type="text"], .estimate-form textarea {
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.estimate-form textarea {
+  min-height: 80px;
+  resize: vertical;
+}
+
+.generate-button {
+  margin-top: 1rem;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.generate-button:hover {
+  background-color: #0056b3;
+}
+
+.output-capture {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.a4-image {
+  position: relative;
+  width: 794px;
+  height: 1123px;
+  background-color: #e0f0ff;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
+}
+
+.positioned-text {
+  position: absolute;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #333;
+}
+
+/* 텍스트 위치 조정 */
+.product-name { top: 80px; left: 100px; }
+.serial-number { top: 120px; left: 100px; }
+.notes { top: 160px; left: 100px; white-space: pre-wrap; max-width: 600px; }
+.appraisal-number { top: 200px; left: 100px; }
+
+.download-section {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.download-section a {
+  color: #007BFF;
+  text-decoration: underline;
+  font-weight: bold;
+}
